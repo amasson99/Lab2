@@ -1,3 +1,10 @@
+/*******************************************************************
+* Lab2.java
+* <Alex Masson / Section B/ Thursday 4:30 - 6:30>
+*
+* This program is a GPA calculator
+*******************************************************************/
+
 import java.util.*;
 
 public class Lab2 {
